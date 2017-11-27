@@ -73,7 +73,6 @@ def list_instances():
 get_region_names()
 #Debugging ...
 #regionNames = ['us-east-1', 'us-east-2', 'us-west-2']
-#regionNames = ['us-east-1']
 #regionNames = ['us-west-2']
 
 list_instances()
