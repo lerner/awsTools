@@ -261,10 +261,3 @@ if volumesInCompliance:
   for validName in validNames:
     print ("  "+validName)
 
-'''
-if volumesInCompliance and instancesInCompliance:
-  print("All AWS instances and available volumes are tagged with one of these valid user names:"+"\n")
-  for validName in validNames:
-    print ("  "+validName)
-
-'''
